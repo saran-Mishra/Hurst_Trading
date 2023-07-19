@@ -12,4 +12,4 @@ potential mean-reverting behavior and the persistence of trends. The value of th
 of the autocorrelation in the price series.
 
 
-
+# First Commit Pending!!!
